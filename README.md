@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 
-## About me
+### About me
 
 Data Analyst Junior con sólidas habilidades en Python, SQL y Power BI, con enfoque en transformar datos en insights claros y accionables. He trabajado con Python para analizar métricas de consumo en telefonía móvil y retail, usando librerías como pandas, matplotlib y seaborn.
 
 
-## Tech stack
+### Tech stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
