@@ -3,7 +3,15 @@
 
 ### About me
 
+(English)
 I am a Data Analyst with a solid foundation in Python, SQL and Data Visualization (Tableau, Power BI), focused on transforming data into clear and actionable insights. I have a background in Physics, Math and Psychology which gives me a unique set of knowledge and skills that I use in combination with data analytics to provide better statistical analysis and deeper insight of the people behind data.
+
+I am passionate about technology, science, biking, sci-fi and fantasy literature, music and videogames.
+
+(Español)
+Soy analista de datos con sólidos conocimientos de Python, SQL y visualización de datos (Tableau, Power BI), enfocado en transformar datos en información clara y práctica. Mi formación en Física, Matemáticas y Psicología me proporciona un conjunto único de conocimientos y habilidades que utilizo en combinación con el análisis de datos para ofrecer un mejor análisis estadístico y una visión más profunda de las personas detrás de los datos.
+
+Me apasiona la tecnología, la ciencia, el ciclismo, la literatura de ciencia ficción y fantasía, la música y los videojuegos.
 
 
 ### Tech stack
