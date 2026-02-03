@@ -16,7 +16,7 @@ Soy analista de datos con sólidos conocimientos de Python, SQL y visualización
 Me apasiona la tecnología, la ciencia, el ciclismo, la literatura de ciencia ficción y fantasía, la música y los videojuegos.
 
 
-### Tech stack
+### Tech stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
